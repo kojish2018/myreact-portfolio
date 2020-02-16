@@ -1,0 +1,21 @@
+.about{
+    background-color:#eeeeee;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+
+.about h3{
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: rgb(236,184,7);
+    margin: 0;
+    padding: 0;
+}
+
+.about h2{
+    font-size: 48px;
+    color:black;
+    margin-bottom: 48px;
+    margin-top:0;
+}

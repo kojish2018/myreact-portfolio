@@ -1,20 +1,21 @@
 header {
     margin: 0 auto;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 330px;
+
 }
 
 header h1{
     margin: 0;
     font-size: 4rem;
-    color: rgb(33,37,41);
+    color: white;
 
 }
 
 header p{
     font-weight: 700;
     font-size: 1.75rem;
-    color: rgb(33,37,41);
+    color:white;
     margin-bottom:30px;
 }
 

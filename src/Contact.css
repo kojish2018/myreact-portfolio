@@ -1,0 +1,38 @@
+.contact{
+    background-color:#eeeeee;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+}
+
+.contact h3{
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: rgb(236,184,7);
+    margin: 0;
+    padding: 0;
+}
+
+.contact h2{
+    font-size: 48px;
+    color:black;
+    margin-bottom: 48px;
+    margin-top:0;
+}
+
+/* .contact > .row{
+    width: 20px;
+} */
+.contact > .row a{
+    color:#009FAA;
+    margin: 0 30px;
+}
+
+.ion2{
+    font-size: 77px;
+}
+
+.ion2:hover{
+    /* transform: scale(1.1); */
+    color:#445ae3;
+}

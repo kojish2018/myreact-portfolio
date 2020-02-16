@@ -1,6 +1,6 @@
 import React from "react";
 
-import Background from './img/トップ画.jpg'
+import Background from './img/トップ画3.jpg'
 
 import './Header.css'
 
@@ -15,8 +15,8 @@ function Header(props){
     return(
         <header style={myStyles}>
             <h1>{props.title}</h1>
-            <p>Bootstrap example portfolio</p>
-            <a href='#button'>{props.button}</a>
+            <p>Web Engineer</p>
+            <a href='#about'>{props.button}</a>
         </header>
     );
 
